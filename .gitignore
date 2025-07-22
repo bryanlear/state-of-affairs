@@ -2,9 +2,13 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+*.csv
+*.parquet
 # C extensions
 *.so
+ppi_notebook_chunk_2.py
+cpi_notebook_chunk_1.py
+scripts/
 
 # Distribution / packaging
 .Python

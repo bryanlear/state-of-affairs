@@ -1,0 +1,27 @@
+================================================================================
+ECONOMIC DATA PIPELINE SUMMARY REPORT
+================================================================================
+Generated: 2025-07-21 23:40:47
+Pipeline Run ID: 20250721_234042
+
+--- DATA FETCH ---
+Status: SUCCESS
+Output Directory: data/raw/US_indicators
+
+--- DATA VALIDATION ---
+Overall Status: WARN
+
+--- ECONOMIC ANALYSIS ---
+Overall Economic Assessment: MIXED
+Labor Market Health: WEAKENING
+  Unemployment Rate: 4.1% (increasing)
+Market Sentiment: BULLISH
+  S&P 500: 6,296.79 (increasing)
+  Fed Funds Rate: 4.33% (stable)
+  Yield Curve: 0.56% (INVERTED)
+
+--- FILES GENERATED ---
+Log File: reports/pipeline_20250721_234042.log
+Summary Report: reports/pipeline_summary_20250721_234042.txt
+
+================================================================================
