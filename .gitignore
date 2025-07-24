@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 *.csv
 *.parquet
+tokens.json
 # C extensions
 *.so
 ppi_notebook_chunk_2.py
@@ -209,3 +210,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# scripts
+
+plot_xlf_history.py
+sector_performance.py
+simple_quotes.py
+xlf_detailed_analysis.py
+usd_oil_analysis.py
+ppi_notebook_chunk_1.py
+cpi_notebook_chunk_1.py
+treasury_yields_analysis.py
