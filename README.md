@@ -82,4 +82,6 @@ Despite high nominal rates the greenback softens:
 ![interest_rate](plots/US_oil_indicators_1year.png)
 
 
+## Disclaimer
 
+This project and its contents are provided for informational and educational purposes only. They do not constitute financial, investment, or legal advice. Any decisions made based on the information presented here are solely at your own risk.
