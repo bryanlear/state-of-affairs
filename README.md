@@ -1,143 +1,45 @@
-## July 2025 Update
+[July 2025 Update](reports/july_2025.md)
 
-As the August 1st deadline approaches, capacity constraints of ports are worsening and will continue to if a deal is not reached before the deadline. Market participants are looking for stability regardless of the outcome.
+## August 2025 Update
 
-| Rank | European port (UN LOCODE) | Direct strings / week to US* | 12-month US-bound export tonnage (Mt) | YoY change | Latest CAx (wk 27 ’25) |
-|------|---------------------------|------------------------------|---------------------------------------|------------|------------------------|
-| 1 | **Rotterdam (NLRTM)**       | 11 | **27.6** | **▲ 11 %** | **0.83** |
-| 2 | **Antwerp-Bruges (BEANR)**  | 9  | 22.9     | ▲ 5 %  | 0.79 |
-| 3 | **Hamburg (DEHAM)**         | 6  | 17.3     | ▲ 9 %  | 0.81 |
-| 4 | Valencia (ESVLC)            | 4  | 11.8     | ▲ 14 % | 0.68 |
-| 5 | Gioia Tauro (ITGIT)         | 3  | 9.4      | **▲ 15 %** | 0.65 |
-| 6 | Le Havre (FRLEH)            | 3  | 7.0      | ▲ 7 %  | 0.71 |
-| 7 | Bremerhaven (DEBRV)         | 2  | 6.1      | ▲ 6 %  | 0.77 |
+### ***The Art of The Deal?***
 
-*Direct-string count = weekly scheduled sailings shown in SeaRates API, corroborated with UNCTAD LSBCI “0 trans-shipments” flag.
+Now that the August 1st deadline is over, it will take several days to re-program the systems with the new tariff rules. Since Trump relies on chaos and volatility as a tool for his game, it is likely that during the upcoming days there could be exceptions to these new rules. Many of the 15% tarrifs will only begin applying on August 8th. Pre-transit shipments will be exempt from the tariffs (pay old rate) until October 5th.
 
-- ***Northern-range*** hubs are the pressure-valve. Rotterdam, Antwerp-Bruges and Hamburg together handled over half (≈68 Mt) of all US-destined European exports over the past year
-- ***Inventory is sitting quayside*** CAxs readings in 0.8 range mean 20-30% more full boxes are entering than leaving, a clear backlog signal. Cargo waiting on the pier
-- ***Mediterranean*** trans-shipment hubs (Gioia Tauro, Algeciras) are quietly stockpiling. The Gioia Tauro jump (▲ 15 %) is the steepest of any EU port with a direct US string
+**US - Japan**: 
 
-Unlike 2018, exporters are waiting. PortWatch tallies show spikes in import calls (boxes arriving from inland depots) but only a shallow uptick in laden sailing to the US → Park and Wait behaviour.
+Unlike the Europeans, the Japanese engaged with the Trump administration early on and got better off if not better. 
+Under this 'deal', the Japs committ ~$550b in US investments and purchases (Boeing and agriculture**). In reality, only a silver of that money will take the form of straight equity injections (1 to 2%)- most of it is structured as loans (98 to 99%), loan guarantees and other credit facilities routed through the Japan Bank for International Cooperation (JBIC) and Nippon Export and Investment Insurance (NEXI).
 
-Rotterdam’s US-bound tonnage ▲ 11 % YoY but direct sailings stuck at 11/week → higher load factors and longer dwell times. Storage yards at RWG|ECT (Rotterdam) and CTA|EUROGATE (Hamburg) are getting close to COVID-era utilization levels. Storage fees and yard handling account for >30% of Rotterdam's non-marine revenue, up from 18% pre-tariff-talks. 
+By using JBIC|NEXI-backed debt instruments, Tokyo can claim a huge investment without havingm to deploy government balance-sheet capital directly. This huge Jap investment is actually credit support/loans to Japanse and selected foreign companies investing in US projects (they can borrow more cheaply and with the backing of the Japanese government)
 
-The stockpiling in the south of Europe indicates hedging by carriers. If tariffs bite, then cargo can be rerouted to Latin America or West Africa with one trans-shipment.
+![auto_industry](schwab_realtime_data/US_auto_industry/auto_technical_dashboard_20250802_230512.png)
 
-***America's blood vessels are choking but how is she doing?***
+Thanks to this art of the deal, US automakers are losing big. The Detroit 3 (GM, Ford, Stellantis) are facing a combined $7 Billion drag on earnings in 2025. The Japan deal won't likely trigger significant on-shoring of production (nothing will).
 
-![interest_rate](plots/cpi_vs_fed_neutral.png)
+- [More plots](schwab_realtime_data/auto_industry)
 
-Inflation is still above Fed's target, and tariffs are adding more pressure.
-
-Growth is still solid, strong, and fiscal policy is expansionary.
-The Fed sees 2025 GPD way above potential and unemployment at < 4.5%.
-Fed Chair Jerome Powell, therefore, still holds a hawkish stance depite political pressure from President Trump for faster cuts.
-From Trumps view, rate cuts will boost consumption and business investment, cheapen Federal debt service, weaken the dollar to help exports. History shows that politicizing monetary policy can actually raise long-term yields by unsettleing investors, a quintessential example would be Turkey 2019.
-
-<!-- 1. Fiscal stance -->
-
-| Indicator | FY 2025 | Info |
-|--------|---------------|---------|
-| **Headline deficit** | **$1.9 trn** ≙ **6.1 % of GDP** | CBO January baseline; barely any changed after the June tax-and-spend bill |
-| **Primary deficit** (ex-interest) | ≈ 4 % of GDP | Outlays keep outrunning revenues despite solid growth |
-| **Net-interest outlays** | **+$55 bn YoY** (Oct – Jun) | Fastest-growing line item (↑ 8 %) |
-
----
-
-A lot of money is being allocated to paying interest rates on bonds
-
-Some of the variables contributing to the expansionary fiscal policy are:
-
-- One Big Beautiful Bill Act, adding ~$3 trn to the 10 year deficit
-- Higher denfense and entitlement spending (a lot for defense was appropriated from Biden's inflation bill)
-- Rising debt-service bill as the stock of debt rolls over at 4-5% coupon rates
-
-![interest_rate](plots/treasury_yield_spread_1year.png)
-
-![interest_rate](plots/treasury_yields_combined_1year.png)
-
-***Bull steepener move***: Cuts priced at front end; long end anchored 
-
-Since Fed policy sets the floor for what bankls must pay on sitcky vs. flighty deposits, higher-for-longer keeps funding costs elevated; cuts compress asset yields faster than deposit costs fall → Banks are paying more to attract and retain deposits, especially flighty ones, to compete with other investment options. if the Fed were to cut rates, those asset yields might fall faster which could potentially squeeze profit margins.
-
-![bank sector](schwab_realtime_data/XLF_analysis_20250724_030511.png)
-![bank sector](schwab_realtime_data/XLF_detailed_analysis_20250724_030729.png)
-
-**Tariffs** = cost push + uncertainty: 10% “baseline” tariffs plus higher country-specific levies raise import costs, pressure margins for clients, and spur hedging—good for trading, mixed for credit
-
-**Almighty Dollar**
-
-Despite high nominal rates the greenback softens: 
-
-- Futures price −75 bp in Fed easing by mid-2026; CPI still ~3 % → real 2-y rate advantage vs. Europe/Japan has shrunk 120 bp since Jan. A currency trades on expected, not current, carry
-- Budget gap ≈ 6 %-of-GDP; monthly bill/Note auctions top $330 bn.  Current-account still −3 %-of-GDP.Foreign investors demand greater FX hedge or higher term-premium, diluting rate support
-- Moody’s cut of US sovereign, tariff volatility, talk of firing the Fed chair → raises risk side of USD assets, pushes buyers to hedge
-- ECB and BoJ have lifted policy rates/terminated YCC; 3-mth EUR-USD rate gap narrowed from 210 bp → 110 bp in a year.  Carry pick-up is no longer decisive
-- Asia’s official & private investors (>$46 tn overseas) are trimming incremental USD buys, raising hedge ratios on existing stock.  Less unhedged inflow dampens bid for dollars
-- Broad 10 % tariff cuts US goods import demand mechanically reducing FX demand for dollars to pay foreign suppliers, while retaliation hurts exports
-- Weaker USD reflates oil/metals → lifts US inflation expectations → anchors Fed from hiking further; also recycles petrodollars into non-USD assets when OPEC sells crude and diversifies
-- With no acute global crisis and US growth slowing (NY Fed nowcasts <1 %), demand for “USD cash” as the ultimate hedge is muted
-
-![oil](plots/US_oil_indicators_1year.png)
+- [Auto Industry report summary](schwab_realtime_data/auto_industry/auto_report.md)
 
 
-**ECB**
+** Japan is reducing or eliminating tariffs on ~600 agricultural tariff lines (beef, portk, cheese, and expanding quotas for products like wheat)
 
-| Indicator        | Level                       | Trend                                                                                                                                              |
-| :---------------------------- | :-------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| HICP inflation (Jun 25) | 2.0 % y/y                   | Down sharply from 5 %+ in 2023; now at target                                                           |
-| Key policy rate (deposit facility) | 2.0 %                     | Cut from 4 % between Jun-24 → Mar-25; unchanged at the 24 Jul 25 meeting |
-| Real GDP (ECB staff proj.)    | +0.9 % p.a. 2025 | Gradual pickup expected; still below pre-pandemic norm                                                  |
-| Unemployment (May 25)         | 6.3 %                       | Little change; labour market still tight                                                                      |
-| Wholesale gas price (Mar 25 avg.) | €42/MWh                   | One-third of 2022 peak; volatility continues                                                                 |
+**US - EU**: 
 
-Back in the old continent, President Lagarde has decided to maintain the ECB's 3 key interest rates as inflation is at the 2% medium-term target. The Eurozone has showed a stronger-than-expected growth in the first quarter driven by exports, private consumption, and investment. It is worth mentioning that exports and manufacturing did get a temporary lift from producers front loading orders to beat potential US-EU auto and machinery tariffs. 
+While promoting his golf club in Scottland, president Trump and EU president von der Leyen agreed to a 15% tarriff on European cars and parts (down from the threat of 27.5%) while the EU agreed to lower its duty on US-made autos from 10% to 2.5%. This assymetry favors the US auto industry and could chip away at EU export volumes and profit margins over time.
 
-Inflation landed at target earlier than expected but growth is soft and highly sensitive to external shocks. Having said this, dis-inflation has completed while deflation is not a threat, yet.
+Features of the deal include:
 
-Energy-based effects have faded → LNG and solar reduced share of EU dependance on Russia's gas imports < 7%. Wholesale prices have declined to ~€40-50/MWh yet retail tariffs remain 10–15 % > 2015-19 average and are highly sensitive to Asian LNG demand spikes.
-Food and goods prices are cooling, only servicesw remain sticky. Wage growth has slowed to ~3% y/y allowing unit-labour-cost pressures ease. ECB member Cipollone calls inflation risks 'balanced'.
+- Tariff on most of EU exports (cars, semiconductors, pharmaceuticals)
+- Exception for aircrafts and component parts
+- Continuation of 50% tariff on steel and aluminum
 
-![EUR](EU_central_bank/Figure_1.png)
+![auto_industry](schwab_realtime_data/EU_auto/eu_auto_technical_dashboard_20250802_233255.png)
 
-The top external downside risk cited by the ECB is the 15% threat on EU autos by the [Trump administration](https://youtu.be/Afetnw70S04?si=dQ9YUicw5Z3Pefqa&t=61)
+- [More plots](schwab_realtime_data/EU_auto)
 
-On the growth side, the ECB sees 0.9 % real growth this yearThe model forecasts +1.4 % EU GDP by 2026 from RRF investments alone and going towards 1.25% by 2027 as past rate cuts work through credit channels. 
-The NextGenerationEU grant/loan envelope is still disbursing (~€70 bn in 2025). Private investment is helped by EUR zone borrowing costs that have fallen ~120 bp since mid-2024
+- [EU Automakers report summary](schwab_realtime_data/EU_auto/EU_auto.md)
 
-Ireland's ~ +3% surge alone contributed to 0.2 p.p. of Euro-area growth - largely via multinantionals expediting US shipments. Inventories inside the EUR area fell and net-trade boost was only ~ 0.1 p.p., the much larger 0.4 p.p. push came from fizxed investment helped by easing financing costs and NextGenerationEU disbursements. 
-
-Job vacancies remain high in Germany and the Netherlands  but manufacturing layoffs are picking up in Italy and Austria. Overall unemployment of 6.3 % is near a 22-year low:
-
-| Latest reading (2025 Q1 / June-25) | Germany              | Netherlands                          | Italy                                | Austria                                   |
-| :--------------------------------- | :------------------- | :----------------------------------- | :----------------------------------- | :---------------------------------------- |
-| Job-vacancy rate (all sectors)     | **3.2 %** | **4.2 %** — highest in EU            | 1.2 %                                | 3.6 % (but falling)                       |
-| Firms reporting labour shortages   | **28 %** of all companies | **38 %** in ICT & health care        | 14 %                                 | 17 %                                      |
-| Manufacturing PMI, employment sub-index | 49.0 (near neutral)  | 50-plus (small sector)             | **46.8** – payrolls cut 7 mos. in a row | **45.3** – head-count cuts accelerate       |
-| High-profile layoffs 2025          | none                 | none                                 | Stellantis – 500 jobs, Melfi plant   | Automotive & machinery rounds of redundancies |
-
-As Germany's and The Netherland's working-age population shrink, shortfalls concentrate in health, social care, engineering, IT, construction:
-
-- The Dutch economy created twice as many jobs in logistics, software and care as it lost in industry
-- Germany adds public-sector and green-tech posts even while factory output stagnates
-
-Vacancies thus remain >>> EU mean even with slower growth
-
-- Skilled-Worker Immigration Act 2024 in Germany and more generous “30% ruling” for working immigrants in NL have widen search but have not yet filled the gap
-- Overall EUR energy prices have fallen but Germany and NL benefit most from LNG and offshore wind build-out which stimulates hiring in installation & maintenance
-
-While on the other hand, Italy and Austria specialize in energy-intensive mid-tech sectors - metals, paper, auto components, machinery - facing cost squeeze (gas | electricity tariffs ~15% above 2015-19 avg.) and demand shock (US tariff threats on cars/machinery, weaker orders from DE | CH). At the same time, other factors such as Italy’s participation rate (65% vs. NL 74%), PMI ($< 50$ for $> 1 yr$) and the postponent of planned large-scale investments by OEMs (Volkswagen, BMW, Mercedes-Benz, Audi,...) force Austrian subcontractors to cutt staff (Austrian tier-2 suppliers  are deeply tied to German value chain).
-
-Thus, the modest avgerage expansion in the EUR-area masks a North-South services-industry split that shows simultaneously as unfilled jobs in one bloc and layoffs in another.
-
-| Geopolitics                 |Macro                                                                                                                                                                                                                                                                      |
-| :---------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| US–EU tariff | 15 % threat on EU autos keeps export sentiment subdued; ECB cites this as the top external downside risk                                                                                                                                            |
-| China–EU EV dispute           | EU provisional tariffs (2024) turned into talks on minimum prices rather than outright duties; outcome could affect German supply chains and headline inflation via car prices                                                                                     |
-| Russia–Ukraine war            | No fresh shock but persistent insurance & routing costs keep commodity risk premia elevated                                                                                                                                                                                                         |
-| Middle-East tension           | Adds a risk premium to oil (Brent fluctuating €80–95) and heightens cyber-risk warnings in ECB's May 25 Financial Stability Review                                                                                                             |
-| **Net effect:** | The ECB's FSR warns that policy uncertainty is ~50 % above its post global financial crisis (2008-2009) avg. raising the probability of "tail" outcomes (worst case scenarios) even as baseline projections look benign                                                                     |
 
 ## Disclaimer
 
