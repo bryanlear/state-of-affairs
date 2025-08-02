@@ -17,9 +17,9 @@ By using JBIC|NEXI-backed debt instruments, Tokyo can claim a huge investment wi
 
 Thanks to this art of the deal, US automakers are losing big. The Detroit 3 (GM, Ford, Stellantis) are facing a combined $7 Billion drag on earnings in 2025. The Japan deal won't likely trigger significant on-shoring of production (nothing will).
 
-- [More plots](schwab_realtime_data/auto_industry)
+- [More plots](schwab_realtime_data/US_auto_industry)
 
-- [Auto Industry report summary](schwab_realtime_data/auto_industry/auto_report.md)
+- [Auto Industry report summary](schwab_realtime_data/US_auto_industry/auto_report.md)
 
 
 ** Japan is reducing or eliminating tariffs on ~600 agricultural tariff lines (beef, portk, cheese, and expanding quotas for products like wheat)
